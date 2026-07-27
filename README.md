@@ -152,6 +152,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Automated extraction, transformation, and analysis of information from documents to make their content usable by software systems.
 
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
+- <img src="https://avatars.githubusercontent.com/u/15018219?s=200&v=4" height="14"/> [PDF Letter](https://github.com/bitterdev/pdf-letter-mcp) - Render a letter as a print ready PDF with DIN 5008 address positioning for German window envelopes. Runs offline with no external API, supports reusable sender profiles, English and German date and salutation handling, and a signature image.
 
 
 <br />
@@ -192,6 +193,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.simpleicons.org/atlassian/0052CC" height="14"/> [Atlassian](https://github.com/sooperset/mcp-atlassian) - Comprehensive integration with Atlassian suite including Confluence for documentation management and Jira for issue tracking.
 - <img src="https://carbonvoice.app/favicon.ico" height="14"/> [Carbon Voice](https://github.com/PhononX/cv-mcp-server)<sup><sup>⭐</sup></sup> - MCP Server that connects AI Agents to [Carbon Voice](https://getcarbon.app). Create, manage, and interact with voice messages, conversations, direct messages, folders, voice memos, AI actions and more in [Carbon Voice](https://getcarbon.app).
 - <img src="https://m2tg1pnwn0.ufs.sh/f/GMqNN8nd9I8l9tUbmif1CnFX8Baqr7mHeicYu0AULDyNVWJE" height="14"/> [ntfy](https://github.com/gitmotion/ntfy-me-mcp) - An ntfy MCP server for sending/fetching ntfy notifications to your self-hosted ntfy.sh server from AI Agents 📤 (supports secure token auth & more - use with npx or docker!)
+- <img src="https://www.google.com/s2/favicons?domain=dropscan.de&sz=64" height="14"/> [Dropscan](https://github.com/bitterdev/dropscan-mcp) - Postal mail scanning via [Dropscan](https://www.dropscan.de): list scanboxes and mailings, read a letter as PDF, plaintext or envelope scan, manage recipients and forwarding addresses, and request scan, forward, shred or return actions. Write actions are double gated behind an environment flag and an explicit confirmation.
+- <img src="https://www.pixelletter.de/favicon.ico" height="14"/> [PixelLetter](https://github.com/bitterdev/pixelletter-mcp) - Send physical letters and faxes through the [PixelLetter](https://www.pixelletter.de) interface: hand it a PDF or plain text and it is printed, franked and posted. Registered mail, colour and duplex options, plus a test mode that submits an order without printing or charging.
 
 <br />
 
@@ -235,6 +238,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://framerusercontent.com/images/0Bw7GwbNXUBxOAp9pyM0VPOlphg.png" height="14" /> [Skyvern](https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp) - MCP to let Claude or your own LLM control your browser
 - <img src="https://searx.space/favicon.png" height="14" /> [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) - A Model Context Protocol Server for [SearXNG](https://docs.searxng.org)
 - <img src="https://pragmar.com/media/static/images/mcp-server-webcrawl/favicon.png" height="14" /> [mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) - Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.
+- <img src="https://scraper-api.com/favicon.ico" height="14"/> [Scraper API](https://github.com/bitterdev/scraper-api-mcp) - One tool per [scraper-api.com](https://scraper-api.com) endpoint: public profiles, posts, reels, videos, transcripts, comments, ads and search results from social platforms, plus German business directories and real estate listings, all as consistent JSON.
 
 <br />
 
@@ -460,6 +464,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CAKM](https://github.com/sanyambassi/thales-cdsp-cakm-mcp-server) - MCP server for Thales CDSP CAKM integration, enabling secure key management, cryptographic operations, and compliance monitoring through AI assistants for Ms SQL and Oracle Databases.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CRDP](https://github.com/sanyambassi/thales-cdsp-crdp-mcp-server) - MCP server for Thales CipherTrust Manager RestFul Data Protection service.
 - <img src="https://cdn.worldvectorlogo.com/logos/thales-1.svg" height="14"/> [CSM](https://github.com/sanyambassi/thales-cdsp-csm-mcp-server) - MCP server for Thales CipherTrust Secrets Management
+- <img src="https://cdn.simpleicons.org/enpass" height="14"/> [Enpass](https://github.com/bitterdev/enpass-mcp) - Work with local [Enpass](https://www.enpass.io) vaults: list vaults and entries, read entries and passwords, generate TOTP codes and create new entries. The SQLCipher master password is read from the OS keychain and never passes through the model.
+- <img src="https://veracrypt.io/favicon.ico" height="14"/> [VeraCrypt](https://github.com/bitterdev/veracrypt-mcp) - Mount, unmount and list [VeraCrypt](https://veracrypt.io) containers so the assistant can then use its normal file tools on the decrypted volume. The password is piped over stdin instead of the command line and can be taken from the OS keyring.
 
 <br />
 
